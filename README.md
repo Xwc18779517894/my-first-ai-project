@@ -7,7 +7,6 @@
 
 ![任务清单截图](https://github.com/Xwc18779517894/my-first-ai-project/raw/main/screenshots/demo.png)
 
-（如果图片不显示，请确保已上传 screenshots/demo.png 文件）
 
 ## 技术栈
 
@@ -38,4 +37,5 @@
 
 
 ## 最重要的一点
-     肖文昌牛逼
+     肖文昌牛逼 
+     
